@@ -14,5 +14,5 @@ Giton6
 --README.md
 
 
--minchan
+-minchan  
  Hello:)
